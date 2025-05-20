@@ -1,0 +1,12 @@
+plugin:
+  name: Gadget Config Example
+  description: "\
+    This example demonstrates various options for configuring your Gadgets."
+  tags:
+    - 2D
+    - 3D
+  version: 1.2.3
+
+publish:
+  on: release
+  branch: main
